@@ -3,7 +3,7 @@ Python implementation and experiments of my undergraduate project — Probabilis
 
 # Dataset 
 The data used in the paper is BBC Big Personality Test, 2009 - 2011. You can download it from https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=7656.
-To reproduce the experiment, you need to create a folder under root path and unzip the data into it.
+To reproduce the experiment, you need to create a folder named dataset under root path and unzip the data into it.
 
 # Experiment Results 
 For separation of independent source using simulated t-distributed data with random normal distributed noise of mean 0 and standard deivation 0.5,
